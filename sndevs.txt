@@ -1,8 +1,6 @@
 
 sean devs 
 
-<<<<<<< HEAD
-<<<<<<< HEAD
 
 toinks!!!
 
@@ -10,24 +8,25 @@ TOINKS!
 
 
 haluuuuu
-=======
+<<<<<<< HEAD
+
+hi
+
+
 =======
 hi
-=======
 
->>>>>>> 540a868158ea0d12df90cc7ed0039a40b222c855
+>>>>>>> 79669c452a7084258ed304c666bdb08ac0f6831c
 mapula nuo..
-=======
+
 sean devs
 
 cute ka?
-<<<<<<< HEAD
->>>>>>> 69972df2ea8f79110b818e4c839d747348296eef
->>>>>>> 78756bc22b518ec4e0e93a0e92f24a50267a3b7c
-=======
 
-<<<<<<< HEAD
->>>>>>> d655bbc9e69c4e62c5dec0c9e628170381378871
-=======
+
+
 sinong pogi?
->>>>>>> f58b79e8eeafa6d61346fa2bfc65c71a34177d3d
+
+
+
+AYIIIEE

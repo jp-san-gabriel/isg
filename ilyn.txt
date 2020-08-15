@@ -30,6 +30,7 @@ hello. this is yvonne!
 mam ilyn
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> 2d9ba9f55af42146d7763cd655a8d0cc4e9d7d84
 =======
 <<<<<<< HEAD
@@ -39,3 +40,8 @@ mam ilyn
 >>>>>>> 7628cad7766568f415083a2acd33949a500f2752
 =======
 >>>>>>> 6e2e610dee915bf14a2b3344533c56efa222c07a
+=======
+
+=======
+>>>>>>> 42087a6c3460c113da70239cbc40053cbeaa1c25
+>>>>>>> dc61c5382364c270404c12c672d74cb008f2c887

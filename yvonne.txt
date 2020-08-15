@@ -1,20 +1,34 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 Hello yvonne!
 How are you?
 =======
 <<<<<<< HEAD
 =======
 <<<<<<< HEAD
-wala pong lines :( sads
 =======
+
+>>>>>>> dc61c5382364c270404c12c672d74cb008f2c887
+wala pong lines :( sads
+
 yvonne
+<<<<<<< HEAD
 >>>>>>> 78756bc22b518ec4e0e93a0e92f24a50267a3b7c
 =======
 >>>>>>> 7628cad7766568f415083a2acd33949a500f2752
-yow
 =======
+
+
+>>>>>>> dc61c5382364c270404c12c672d74cb008f2c887
+yow
+
 yvonne
+<<<<<<< HEAD
+
+
+yoyoyoyoyooy
+=======
 >>>>>>> 0481c1986e34ac5601fde724e950b657e83e0707
 <<<<<<< HEAD
 >>>>>>> 2d9ba9f55af42146d7763cd655a8d0cc4e9d7d84
@@ -25,4 +39,8 @@ yvonne
 =======
 
 yung ano natin?
+<<<<<<< HEAD
 >>>>>>> 6e2e610dee915bf14a2b3344533c56efa222c07a
+=======
+>>>>>>> 79669c452a7084258ed304c666bdb08ac0f6831c
+>>>>>>> dc61c5382364c270404c12c672d74cb008f2c887
