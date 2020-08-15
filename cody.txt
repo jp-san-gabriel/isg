@@ -19,4 +19,18 @@ Hello cods -yvonne
 
 cods alak na
 
+<<<<<<< HEAD
 a
+=======
+<<<<<<< HEAD
+
+lols
+=======
+ano mamaya?
+
+<<<<<<< HEAD
+>>>>>>> 1eb5840f6d268e88c09c7e67a8b71bbf09f66952
+=======
+ilang case?
+>>>>>>> 79669c452a7084258ed304c666bdb08ac0f6831c
+>>>>>>> 09ba496b5c0f4560508ff0751e46a1e639b7d230

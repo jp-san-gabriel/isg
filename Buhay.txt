@@ -1,11 +1,15 @@
 Alive
 
 
+
 hi ganda
 
 dead
+nu daw ?
 
+dead
 
+BU!
 
 
 AND WELL
@@ -25,13 +29,12 @@ Balakayodyan!
 
 
 wag kayong mang gulo ng buhay ng may buhay.. magagalit si buhay
-<<<<<<< HEAD
 
-=======
-<<<<<<< HEAD
 
 Nagagalit na ko. Gulo na life ko
 
+<<<<<<< HEAD
+I CRIE
 =======
->>>>>>> 2c0ea6e23c89ee9bb48725e7454026f810d6fdbc
->>>>>>> 2d9ba9f55af42146d7763cd655a8d0cc4e9d7d84
+hahah
+>>>>>>> 79669c452a7084258ed304c666bdb08ac0f6831c

@@ -4,4 +4,8 @@ baron antenna?
 mahina signal
 
 
+<<<<<<< HEAD
 a
+=======
+KA ERNEEEE
+>>>>>>> 09ba496b5c0f4560508ff0751e46a1e639b7d230
