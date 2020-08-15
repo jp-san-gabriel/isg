@@ -27,6 +27,11 @@ Balakayodyan!
 wag kayong mang gulo ng buhay ng may buhay.. magagalit si buhay
 <<<<<<< HEAD
 
+<<<<<<< HEAD
+hahah
+=======
+>>>>>>> 2c0ea6e23c89ee9bb48725e7454026f810d6fdbc
+=======
 =======
 <<<<<<< HEAD
 
@@ -35,3 +40,4 @@ Nagagalit na ko. Gulo na life ko
 =======
 >>>>>>> 2c0ea6e23c89ee9bb48725e7454026f810d6fdbc
 >>>>>>> 2d9ba9f55af42146d7763cd655a8d0cc4e9d7d84
+>>>>>>> 7f5a7b808a9b4d609b08730ae98254b026e363ad
