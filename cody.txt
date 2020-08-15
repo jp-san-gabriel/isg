@@ -1,10 +1,17 @@
 Do not read this.
+<<<<<<< HEAD
+Hello Cody!
+=======
 
 
 I haven't read this
 
 read this
 
+<<<<<<< HEAD
+birthday boy
+>>>>>>> 3869d7b961993e5a50cb1abab54d22ec4cc3c3ea
+=======
 
 
 birthday boy
@@ -18,10 +25,17 @@ Hello cods -yvonne
 
 
 cods alak na
+<<<<<<< HEAD
+>>>>>>> 2d9ba9f55af42146d7763cd655a8d0cc4e9d7d84
+=======
 
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> 7628cad7766568f415083a2acd33949a500f2752
+=======
 
 lols
+>>>>>>> dc61c5382364c270404c12c672d74cb008f2c887
 =======
 ano mamaya?
 
@@ -29,6 +43,13 @@ ano mamaya?
 >>>>>>> 1eb5840f6d268e88c09c7e67a8b71bbf09f66952
 =======
 ilang case?
+<<<<<<< HEAD
+>>>>>>> 6e2e610dee915bf14a2b3344533c56efa222c07a
+=======
 >>>>>>> 79669c452a7084258ed304c666bdb08ac0f6831c
+<<<<<<< HEAD
+>>>>>>> dc61c5382364c270404c12c672d74cb008f2c887
+=======
 
 Piso na ako mamaya!Piso na ako mamaya!Piso na ako mamaya!Piso na ako mamaya!Piso na ako mamaya!Piso na ako mamaya!
+>>>>>>> 624ada65f3787496e58d06e1db0c76b76aaf33a9
