@@ -6,4 +6,9 @@ Sgt Pipe :)
 alak pa
 
 isang case na mamaya
+<<<<<<< HEAD
 >>>>>>> 78756bc22b518ec4e0e93a0e92f24a50267a3b7c
+=======
+
+Hello bert! -yvonne
+>>>>>>> d655bbc9e69c4e62c5dec0c9e628170381378871
