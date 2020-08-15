@@ -1,8 +1,17 @@
 Do not read this.
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 I haven't read this
 =======
+=======
+read this
+
+
+
+birthday boy
+
+>>>>>>> 450b04d3fe7012c1e822f154d4e84532baf5c3a2
 
 birthday boy
 <<<<<<< HEAD
@@ -13,4 +22,7 @@ Hello cods -yvonne
 
 
 cods alak na
+<<<<<<< HEAD
 >>>>>>> d655bbc9e69c4e62c5dec0c9e628170381378871
+=======
+>>>>>>> 450b04d3fe7012c1e822f154d4e84532baf5c3a2
