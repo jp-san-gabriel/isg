@@ -1,2 +1,8 @@
 Do not read this.
+<<<<<<< HEAD
 Hello Cody!
+=======
+
+
+birthday boy
+>>>>>>> 3869d7b961993e5a50cb1abab54d22ec4cc3c3ea
