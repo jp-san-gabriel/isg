@@ -1,16 +1,48 @@
+
+hubert cabalhin - laki totoy
+
 hubert cabalhin
 
+<<<<<<< HEAD
+<<<<<<< HEAD
+Sgt Pipe :)
+=======
 
 wiwiw!
 
 
 alak pa
+<<<<<<< HEAD
+>>>>>>> 540a868158ea0d12df90cc7ed0039a40b222c855
 =======
+=======
+
+>>>>>>> 2d9ba9f55af42146d7763cd655a8d0cc4e9d7d84
 alak pa
+
+
 
 isang case na mamaya
 <<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> 78756bc22b518ec4e0e93a0e92f24a50267a3b7c
+=======
+
+Hello bert! -yvonne
+>>>>>>> d655bbc9e69c4e62c5dec0c9e628170381378871
+=======
 =======
 
 Hello bert! -yvonne
 >>>>>>> 6e2b9d41846c042bae0e740af93d547b3680faa8
+>>>>>>> 540a868158ea0d12df90cc7ed0039a40b222c855
+=======
+
+
+isang case na mamaya
+
+
+Hello bert! -yvonne
+
+>>>>>>> 2d9ba9f55af42146d7763cd655a8d0cc4e9d7d84
