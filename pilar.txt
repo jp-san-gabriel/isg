@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 Paano mo nalaman na ilonggo ako?
 =======
 Yow its me
@@ -9,3 +10,14 @@ Yow its me
 
 pilar
 >>>>>>> b568fee3a2ebec7c9f9e195d6d4839f8d25f0ccd
+=======
+
+
+toto
+=======
+Yow its me
+
+=======
+Yow its me
+
+>>>>>>> 540a868158ea0d12df90cc7ed0039a40b222c855

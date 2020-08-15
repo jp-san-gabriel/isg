@@ -1,11 +1,22 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 Wala po lines :(
 =======
 hello. this is yvonne!
 >>>>>>> 78756bc22b518ec4e0e93a0e92f24a50267a3b7c
 =======
+
+hi
+
+hello. this is yvonne!
+
+>>>>>>> 540a868158ea0d12df90cc7ed0039a40b222c855
+=======
 hello. this is yvonne!
 
 mam ilyn
+<<<<<<< HEAD
 >>>>>>> d655bbc9e69c4e62c5dec0c9e628170381378871
+=======
+>>>>>>> 540a868158ea0d12df90cc7ed0039a40b222c855

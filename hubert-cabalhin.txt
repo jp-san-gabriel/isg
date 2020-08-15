@@ -1,14 +1,29 @@
 hubert cabalhin
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 Sgt Pipe :)
+=======
+
+wiwiw!
+
+
+alak pa
+>>>>>>> 540a868158ea0d12df90cc7ed0039a40b222c855
 =======
 alak pa
 
 isang case na mamaya
+<<<<<<< HEAD
 <<<<<<< HEAD
 >>>>>>> 78756bc22b518ec4e0e93a0e92f24a50267a3b7c
 =======
 
 Hello bert! -yvonne
 >>>>>>> d655bbc9e69c4e62c5dec0c9e628170381378871
+=======
+=======
+
+Hello bert! -yvonne
+>>>>>>> 6e2b9d41846c042bae0e740af93d547b3680faa8
+>>>>>>> 540a868158ea0d12df90cc7ed0039a40b222c855
