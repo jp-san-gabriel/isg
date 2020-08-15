@@ -1,9 +1,13 @@
-<<<<<<< HEAD
+
 sean devs 
+
+hi
+=======
 
 mapula nuo..
 =======
 sean devs
 
 cute ka?
->>>>>>> 69972df2ea8f79110b818e4c839d747348296eef
+
+sinong pogi?

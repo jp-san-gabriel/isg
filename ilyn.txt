@@ -1,2 +1,14 @@
+<<<<<<< HEAD
 hello. this is yvonne!
 Hello Yvonne!
+=======
+
+hi
+
+hello. this is yvonne!
+
+=======
+hello. this is yvonne!
+
+mam ilyn
+>>>>>>> 2d9ba9f55af42146d7763cd655a8d0cc4e9d7d84

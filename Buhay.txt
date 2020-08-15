@@ -1,10 +1,28 @@
 Alive
 
 
+hi ganda
+=======
+dead
+
+
+
 AND WELL
 
 balakajan XD
 
 balaka din jan!!
 
+
+
 Balakayodyan!
+=======
+Balakayodyan!
+
+wag kayong mang gulo ng buhay ng may buhay.. magagalit si buhay
+<<<<<<< HEAD
+
+Nagagalit na ko. Gulo na life ko
+
+=======
+>>>>>>> 2c0ea6e23c89ee9bb48725e7454026f810d6fdbc

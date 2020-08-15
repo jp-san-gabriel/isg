@@ -1,2 +1,10 @@
+<<<<<<< HEAD
 Hello yvonne!
 How are you?
+=======
+<<<<<<< HEAD
+yow
+=======
+yvonne
+>>>>>>> 0481c1986e34ac5601fde724e950b657e83e0707
+>>>>>>> 2d9ba9f55af42146d7763cd655a8d0cc4e9d7d84
