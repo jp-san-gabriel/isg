@@ -1,17 +1,20 @@
 ASN Paul John E Tubo 960645 PN
-<<<<<<< HEAD
-awsad
-=======
 
-<<<<<<< HEAD
-<<<<<<< HEAD
+awsad
+
 
 BAGSIK MANTAPI
-=======
+
 PJ PJ
->>>>>>> b568fee3a2ebec7c9f9e195d6d4839f8d25f0ccd
-=======
+
 PJ PJ
+<<<<<<< HEAD
+
+
+
+
+SOOOOO SADs
+=======
 >>>>>>> 3a22e1ef9fabf46d13576e21c5e303cb98919b70
 <<<<<<< HEAD
 
@@ -19,3 +22,4 @@ tubuhin kita dyan eh
 =======
 >>>>>>> 540a868158ea0d12df90cc7ed0039a40b222c855
 >>>>>>> 9f2386a26251a4b94232d95d3cca06e05ba73307
+>>>>>>> 42087a6c3460c113da70239cbc40053cbeaa1c25
