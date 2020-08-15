@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 bakit walang laman?
 
 gusto mo lagyan ko ng laman yan bunkie? 
@@ -23,3 +24,6 @@ bakit walang laman?
 >>>>>>> 540a868158ea0d12df90cc7ed0039a40b222c855
 >>>>>>> de9e2a65296c6d29f5b4f502d65dcb75e821595e
 NATATAE NA DAW C PAIRES
+=======
+SINO MAS POGI SI POGI O IKAW BA?
+>>>>>>> 59ee8d8465de8c74a6e998d7dec9617f6fd06cb3
