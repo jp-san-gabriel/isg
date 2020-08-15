@@ -1,11 +1,15 @@
 
 Paano mo nalaman na ilonggo ako?
-=======
+
 Yow its me
 
 Yow its me
 
 pilar
+<<<<<<< HEAD
+=======
+>>>>>>> b568fee3a2ebec7c9f9e195d6d4839f8d25f0ccd
+>>>>>>> 79669c452a7084258ed304c666bdb08ac0f6831c
 
 
 
@@ -16,7 +20,10 @@ Yow its me
 
 Yow its me
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 79669c452a7084258ed304c666bdb08ac0f6831c
 
 bunkiiiiiieeeeeeeeeeeee
 
@@ -29,5 +36,9 @@ totoooooooooooo
 pilar toto
 
 
+<<<<<<< HEAD
 >>>>>>> e4b6bac21ebca50a4c18c7d42154062f81842642
 >>>>>>> 42087a6c3460c113da70239cbc40053cbeaa1c25
+=======
+
+>>>>>>> 79669c452a7084258ed304c666bdb08ac0f6831c

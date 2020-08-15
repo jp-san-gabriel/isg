@@ -4,14 +4,21 @@ sean devs
 
 toinks!!!
 
+TOINKS!
+
 
 haluuuuu
+<<<<<<< HEAD
 
 hi
 
 
-mapula nuo..
 =======
+hi
+
+>>>>>>> 79669c452a7084258ed304c666bdb08ac0f6831c
+mapula nuo..
+
 sean devs
 
 cute ka?

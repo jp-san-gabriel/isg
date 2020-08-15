@@ -1,11 +1,15 @@
 Alive
 
 
+
 hi ganda
 
 dead
+nu daw ?
 
+dead
 
+BU!
 
 
 AND WELL
@@ -29,4 +33,8 @@ wag kayong mang gulo ng buhay ng may buhay.. magagalit si buhay
 
 Nagagalit na ko. Gulo na life ko
 
+<<<<<<< HEAD
 I CRIE
+=======
+hahah
+>>>>>>> 79669c452a7084258ed304c666bdb08ac0f6831c

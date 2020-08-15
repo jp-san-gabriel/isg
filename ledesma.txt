@@ -1,14 +1,20 @@
+<<<<<<< HEAD
 
 Nakooo wala ding lines sn knuckles na kami ni paires :(
 
 R daw letter?
 
 
+=======
+Nakooo wala ding lines sn knuckles na kami ni paires :(
+R daw letter?
+>>>>>>> 79669c452a7084258ed304c666bdb08ac0f6831c
 hi leds
 
 R daw letter?
 
 
+<<<<<<< HEAD
 POIC BDA
 
 R daw letter?
@@ -23,6 +29,9 @@ SAD
 >>>>>>> 540a868158ea0d12df90cc7ed0039a40b222c855
 =======
 >>>>>>> 2d9ba9f55af42146d7763cd655a8d0cc4e9d7d84
+=======
+R daw letter?
+>>>>>>> 79669c452a7084258ed304c666bdb08ac0f6831c
 
 hello fphoewszz! -yvonne
 <<<<<<< HEAD
