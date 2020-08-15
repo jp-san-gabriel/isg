@@ -1,7 +1,16 @@
 
+<<<<<<< HEAD
+=======
 poic
+>>>>>>> 79669c452a7084258ed304c666bdb08ac0f6831c
 :)
 
 POIC Nilo
 
+<<<<<<< HEAD
+
+
+HIIIIII
+=======
 POIC!!
+>>>>>>> 79669c452a7084258ed304c666bdb08ac0f6831c
