@@ -3,6 +3,9 @@ Do not read this.
 Hello Cody!
 =======
 
+
+I haven't read this
+
 read this
 
 <<<<<<< HEAD
@@ -14,10 +17,16 @@ birthday boy
 birthday boy
 
 
+
 birthday boy
+
 
 Hello cods -yvonne
 
 
 cods alak na
+<<<<<<< HEAD
 >>>>>>> 2d9ba9f55af42146d7763cd655a8d0cc4e9d7d84
+=======
+
+>>>>>>> 7628cad7766568f415083a2acd33949a500f2752

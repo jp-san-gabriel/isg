@@ -1,10 +1,23 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 Hello yvonne!
 How are you?
 =======
 <<<<<<< HEAD
+=======
+<<<<<<< HEAD
+wala pong lines :( sads
+=======
+yvonne
+>>>>>>> 78756bc22b518ec4e0e93a0e92f24a50267a3b7c
+=======
+>>>>>>> 7628cad7766568f415083a2acd33949a500f2752
 yow
 =======
 yvonne
 >>>>>>> 0481c1986e34ac5601fde724e950b657e83e0707
+<<<<<<< HEAD
 >>>>>>> 2d9ba9f55af42146d7763cd655a8d0cc4e9d7d84
+=======
+>>>>>>> 540a868158ea0d12df90cc7ed0039a40b222c855
+>>>>>>> 7628cad7766568f415083a2acd33949a500f2752
