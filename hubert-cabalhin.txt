@@ -3,14 +3,21 @@ hubert cabalhin - laki totoy
 
 hubert cabalhin
 
+
+wiwiw!
+
+
 alak pa
 
-<<<<<<< HEAD
+alak pa
+
+
 
 isang case na mamaya
 
-=======
+
 isang case na mamaya
+
 
 Hello bert! -yvonne
->>>>>>> f58b79e8eeafa6d61346fa2bfc65c71a34177d3d
+
