@@ -1,5 +1,11 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 Paano mo nalaman na ilonggo ako?
 =======
 Yow its me
 >>>>>>> 78756bc22b518ec4e0e93a0e92f24a50267a3b7c
+=======
+Yow its me
+
+pilar
+>>>>>>> b568fee3a2ebec7c9f9e195d6d4839f8d25f0ccd

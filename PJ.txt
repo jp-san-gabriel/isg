@@ -1,4 +1,8 @@
 ASN Paul John E Tubo 960645 PN
 
+<<<<<<< HEAD
 
 BAGSIK MANTAPI
+=======
+PJ PJ
+>>>>>>> b568fee3a2ebec7c9f9e195d6d4839f8d25f0ccd
