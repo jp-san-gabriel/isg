@@ -1,26 +1,34 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 hello. this is yvonne!
 Hello Yvonne!
 =======
 <<<<<<< HEAD
 <<<<<<< HEAD
-Wala po lines :(
 =======
+
+>>>>>>> 6e2e610dee915bf14a2b3344533c56efa222c07a
+Wala po lines :(
+
 hello. this is yvonne!
+<<<<<<< HEAD
 >>>>>>> 78756bc22b518ec4e0e93a0e92f24a50267a3b7c
 >>>>>>> 7628cad7766568f415083a2acd33949a500f2752
 =======
+=======
+
+>>>>>>> 6e2e610dee915bf14a2b3344533c56efa222c07a
 
 hi
 
 hello. this is yvonne!
 
->>>>>>> 540a868158ea0d12df90cc7ed0039a40b222c855
-=======
+
 hello. this is yvonne!
 
 mam ilyn
+<<<<<<< HEAD
 <<<<<<< HEAD
 >>>>>>> 2d9ba9f55af42146d7763cd655a8d0cc4e9d7d84
 =======
@@ -29,3 +37,5 @@ mam ilyn
 =======
 >>>>>>> 540a868158ea0d12df90cc7ed0039a40b222c855
 >>>>>>> 7628cad7766568f415083a2acd33949a500f2752
+=======
+>>>>>>> 6e2e610dee915bf14a2b3344533c56efa222c07a

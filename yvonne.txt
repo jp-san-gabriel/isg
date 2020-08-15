@@ -20,4 +20,9 @@ yvonne
 >>>>>>> 2d9ba9f55af42146d7763cd655a8d0cc4e9d7d84
 =======
 >>>>>>> 540a868158ea0d12df90cc7ed0039a40b222c855
+<<<<<<< HEAD
 >>>>>>> 7628cad7766568f415083a2acd33949a500f2752
+=======
+
+yung ano natin?
+>>>>>>> 6e2e610dee915bf14a2b3344533c56efa222c07a
