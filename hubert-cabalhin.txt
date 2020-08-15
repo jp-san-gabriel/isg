@@ -9,3 +9,8 @@ alak pa
 alak pa
 
 isang case na mamaya
+<<<<<<< HEAD
+=======
+
+Hello bert! -yvonne
+>>>>>>> 6e2b9d41846c042bae0e740af93d547b3680faa8
