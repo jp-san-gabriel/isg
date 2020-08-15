@@ -1,6 +1,10 @@
 Alive
 
+<<<<<<< HEAD
 hi ganda
+=======
+dead
+>>>>>>> f7c8607252118af7c6571143ba32be8d0e8bcb7e
 
 
 
