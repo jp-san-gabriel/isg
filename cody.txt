@@ -19,5 +19,10 @@ Hello cods -yvonne
 
 cods alak na
 
+<<<<<<< HEAD
 
 lols
+=======
+ano mamaya?
+
+>>>>>>> 1eb5840f6d268e88c09c7e67a8b71bbf09f66952

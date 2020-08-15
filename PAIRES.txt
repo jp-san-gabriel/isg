@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 =======
 <<<<<<< HEAD
@@ -37,3 +38,6 @@ BAKIT ANG PANGIT MO? HAHAHAHAHHA
 >>>>>>> 540a868158ea0d12df90cc7ed0039a40b222c855
 >>>>>>> de9e2a65296c6d29f5b4f502d65dcb75e821595e
 >>>>>>> 42087a6c3460c113da70239cbc40053cbeaa1c25
+=======
+SINO MAS POGI SI POGI O IKAW BA?
+>>>>>>> 1eb5840f6d268e88c09c7e67a8b71bbf09f66952
