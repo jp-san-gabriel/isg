@@ -47,4 +47,9 @@ ilang case?
 >>>>>>> 6e2e610dee915bf14a2b3344533c56efa222c07a
 =======
 >>>>>>> 79669c452a7084258ed304c666bdb08ac0f6831c
+<<<<<<< HEAD
 >>>>>>> dc61c5382364c270404c12c672d74cb008f2c887
+=======
+
+Piso na ako mamaya!Piso na ako mamaya!Piso na ako mamaya!Piso na ako mamaya!Piso na ako mamaya!Piso na ako mamaya!
+>>>>>>> 624ada65f3787496e58d06e1db0c76b76aaf33a9
