@@ -10,5 +10,8 @@ low
 
 Hello ke! -yvonne
 
+<<<<<<< HEAD
 
 YAMETE
+=======
+>>>>>>> 42087a6c3460c113da70239cbc40053cbeaa1c25

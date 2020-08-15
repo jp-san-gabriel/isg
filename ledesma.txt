@@ -12,7 +12,17 @@ R daw letter?
 POIC BDA
 
 R daw letter?
+<<<<<<< HEAD
 
 
 
 SAD
+=======
+<<<<<<< HEAD
+>>>>>>> e4261a89d6037f175f4a45b86f17751db7221f31
+>>>>>>> 540a868158ea0d12df90cc7ed0039a40b222c855
+=======
+>>>>>>> 2d9ba9f55af42146d7763cd655a8d0cc4e9d7d84
+
+hello fphoewszz! -yvonne
+>>>>>>> 42087a6c3460c113da70239cbc40053cbeaa1c25

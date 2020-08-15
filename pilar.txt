@@ -22,4 +22,12 @@ bunkiiiiiieeeeeeeeeeeee
 
 pilar
 
+<<<<<<< HEAD
 totoooooooooooo
+=======
+
+pilar toto
+
+
+>>>>>>> e4b6bac21ebca50a4c18c7d42154062f81842642
+>>>>>>> 42087a6c3460c113da70239cbc40053cbeaa1c25
