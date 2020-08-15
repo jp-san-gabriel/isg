@@ -5,5 +5,11 @@ AND WELL
 
 balakajan XD
 
+<<<<<<< HEAD
 
 Eow phows hehehe
+=======
+balaka din jan!!
+
+Balakayodyan!
+>>>>>>> 78756bc22b518ec4e0e93a0e92f24a50267a3b7c
