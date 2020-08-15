@@ -14,14 +14,11 @@ yvonne
 yow
 
 yvonne
-<<<<<<< HEAD
+
 
 
 yoyoyoyoyooy
-=======
->>>>>>> 0481c1986e34ac5601fde724e950b657e83e0707
->>>>>>> 540a868158ea0d12df90cc7ed0039a40b222c855
+
 
 yung ano natin?
->>>>>>> 79669c452a7084258ed304c666bdb08ac0f6831c
->>>>>>> e753113b1d9fcbd45609fe62c074aa14f8619d52
+
