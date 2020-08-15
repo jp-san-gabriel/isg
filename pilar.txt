@@ -14,10 +14,18 @@ pilar
 
 
 toto
-=======
+
 Yow its me
 
-=======
+
 Yow its me
 
+<<<<<<< HEAD
 >>>>>>> 540a868158ea0d12df90cc7ed0039a40b222c855
+=======
+
+bunkiiiiiieeeeeeeeeeeee
+
+pilar
+
+>>>>>>> e4b6bac21ebca50a4c18c7d42154062f81842642
