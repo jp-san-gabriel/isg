@@ -3,11 +3,6 @@ hubert cabalhin - laki totoy
 
 hubert cabalhin
 
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-
->>>>>>> 09ba496b5c0f4560508ff0751e46a1e639b7d230
 Sgt Pipe :)
 
 
@@ -20,35 +15,26 @@ alak pa
 alak pa
 
 
-
 isang case na mamaya
-<<<<<<< HEAD
+
 
 Hello bert! -yvonne
 
 Hello bert! -yvonne
-=======
-
-
 
 Hello bert! -yvonne
 
 
 
 Hello bert! -yvonne
-
-
->>>>>>> 09ba496b5c0f4560508ff0751e46a1e639b7d230
 
 isang case na mamaya
 
 
 Hello bert! -yvonne
 
-<<<<<<< HEAD
+
 piso na ako - KR
 
-=======
 
 Haluuu
->>>>>>> 09ba496b5c0f4560508ff0751e46a1e639b7d230
